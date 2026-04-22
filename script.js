@@ -84,28 +84,28 @@
                     description: "Promotional video advertisement | Director, Editor",
                     category: "commercial",
                     link: "https://www.facebook.com/UCjaguars/videos/1144622297864521/",
-                    thumbnail: "https://i.imgur.com/TQuE4F2.png"
+                    thumbnail: "https://i.imgur.com/CKqMwAR.png"
                 },
                 {
                     title: "SM City Baguio Skyranch Collab",
                     description: "Promotional video advertisement | Responsible for Everything",
                     category: "commercial",
                     link: "https://www.facebook.com/rainniersingson/videos/1574239629712740/",
-                    thumbnail: "https://i.imgur.com/U0bL6YE.png"
+                    thumbnail: "https://i.imgur.com/Jkq2kJw.png"
                 },
                 {
                     title: "Multo Astral Projection VFX",
                     description: "4M+ views",
                     category: "vfx",
                     link: "https://www.tiktok.com/@rainniersingson/video/7535230911009361160",
-                    thumbnail: "https://i.imgur.com/B9wbn0m.png"
+                    thumbnail: "https://i.imgur.com/HAsviZt.png"
                 },
                 {
                     title: "Flying Whales 3D VFX",
                     description: "1M+ views across platforms",
                     category: "vfx",
                     link: "https://www.tiktok.com/@rainniersingson/video/7353208212868517126",
-                    thumbnail: "https://i.imgur.com/dVYgq03.png"
+                    thumbnail: "https://i.imgur.com/ol4fI5v.png"
                 },
                 {
                     title: "MANAMo Seanehan Entry (2nd Place)",
@@ -126,7 +126,7 @@
                     description: "School short film project | Cinematographer, Editor",
                     category: "films",
                     link: "https://www.facebook.com/100023704280367/videos/452459743675838/?__so__=permalink",
-                    thumbnail: "https://i.imgur.com/HIePEAe.png"
+                    thumbnail: "https://i.imgur.com/MmUXmuS.png"
                 }
             ];
 
