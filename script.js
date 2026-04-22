@@ -91,7 +91,7 @@ const reelPreview = document.getElementById('reelPreview');
                 description: "Promotional video advertisement | Responsible for Everything",
                 category: "commercial",
                 link: "https://www.facebook.com/rainniersingson/videos/1574239629712740/",
-                thumbnail: "SKYRANCH_AD.png"
+                thumbnail: "./SKYRANCH_AD.png"
             },
             {
                 title: "Multo Astral Projection VFX",
